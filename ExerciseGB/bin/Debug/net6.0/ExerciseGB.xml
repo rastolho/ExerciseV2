@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExerciseGB</name>
+    </assembly>
+    <members>
+        <member name="M:ExerciseGB.Controllers.PurchaseCalculatorController.GetAsync(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{ExerciseGB.DTO.Models.VatRate})">
+            
+            <summary>
+            Gets the purchase
+            </summary>
+            <param name="net">Value of net</param>
+            <param name="gross">Value of gross</param>
+            <param name="vat">Value of vat</param>
+            <param name="vatRate">Rate value of Vat</param>
+            <returns>Returns the Purchase</returns>
+            <response code="200">Ok</response>
+            <response code="400">Bad request</response>
+            <response code="500">Internal Server Error</response>
+        </member>
+    </members>
+</doc>

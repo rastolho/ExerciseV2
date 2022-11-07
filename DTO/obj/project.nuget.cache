@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jn/E2ZY1BImf6xqM/G/cZcItKhLKtSfqWaS8LM94JBri6krTSS08RqmYXEmcpsY8ZEoT4SbHNdqmLocw1W6hCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro\\source\\ExerciseV2\\DTO\\ExerciseGB.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
